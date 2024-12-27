@@ -1,0 +1,2 @@
+# AdmobConfig
+admob configuration
